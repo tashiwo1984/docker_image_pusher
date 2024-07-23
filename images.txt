@@ -1,4 +1,3 @@
 #支持指定架构
-kartoza/postgis:16-3.4--v2023.11.04@sha256:b0404f25856095493830d912ce4638e469e63d58fb1d627a05ebded5bfdcba41
-fmww/alpine-jdk8@sha256:c8556e3437ed4d69000953c7289e002302946dc34bae0def2be4c8cb4ef161ba
+kartoza/postgis:16-3.4--v2023.11.04
 
