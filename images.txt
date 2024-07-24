@@ -6,6 +6,8 @@
  minio/minio:RELEASE.2024-07-16T23-46-41Z
  gitblit/gitblit:1.9.3-rpc-alpine
  --platform=linux/arm64 nacos/nacos-server:v2.1.1-slim
+ --platform=linux/arm64/v8 redis:6.2.7
+
 
 
 
