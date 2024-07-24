@@ -4,5 +4,7 @@
  --platform=linux/arm64 nickblah/postgis:13.15-postgis-3.4.2
  --platform=linux/arm64 minio/minio:RELEASE.2024-07-16T23-46-41Z
  minio/minio:RELEASE.2024-07-16T23-46-41Z
+ gitblit/gitblit:1.9.3-rpc-alpine
+
 
 
