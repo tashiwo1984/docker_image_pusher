@@ -1,4 +1,6 @@
 #支持指定架构
  --platform=linux/arm64 kartoza/postgis:16-3.4--v2023.11.04
---platform=linux/arm64 fmww/alpine-jdk8:latest
+ --platform=linux/arm64 fmww/alpine-jdk8:latest
+ --platform=linux/arm64 nickblah/postgis:13.15-postgis-3.4.2
+
 
