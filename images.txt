@@ -17,3 +17,5 @@
   zlmediakit/zlmediakit:master
   zookeeper:3.5.8
   --platform=linux/arm64/v8  zookeeper:3.5.8
+  provectuslabs/kafka-ui:latest
+  --platform=linux/arm64/v8  provectuslabs/kafka-ui:latest
