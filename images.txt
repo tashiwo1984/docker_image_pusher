@@ -15,3 +15,5 @@
   --platform=linux/arm64  bitnami/zookeeper:3.9.2-debian-12-r7
   --platform=linux/arm64  zlmediakit/zlmediakit:master
   zlmediakit/zlmediakit:master
+  zookeeper:3.5.8
+  --platform=linux/arm64/v8  zookeeper:3.5.8
