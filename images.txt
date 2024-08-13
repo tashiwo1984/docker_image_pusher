@@ -14,4 +14,4 @@
  zlmediakit/zlmediakit:master
  provectuslabs/kafka-ui:latest
  --platform=linux/arm64/v8  provectuslabs/kafka-ui:latest
- nacos/nacos-server:v2.4.0.1
+ nacos/nacos-server:v2.2.2
